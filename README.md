@@ -18,7 +18,7 @@
 
 🕶️ **Cybersecurity Analyst | Ethical Hacker | Blue Team & Offensive Security Enthusiast**
 
-<img align="right" alt="Hacker GIF" src="https://media.giphy.com/media/3o7aD4W4fM2g0Xf5Fe/giphy.gif" width="260"/>
+<img align="right" alt="Hacker GIF" src="(https://camo.githubusercontent.com/a9018229e78d674348171929c4fd61ae0f248e84c8027e3b96f4cbe0178fb1c0/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f65342f32362f37302f65343236373032656466383734623138316163656431653266613563366364652e676966)" width="260"/>
 
 ---
 
@@ -26,7 +26,7 @@
 
 - 👨‍💻 Actualmente trabajo como **SOC Analyst L1**, enfocado en detección, análisis y respuesta ante incidentes.  
 - 🔍 Apasionado por el **Ethical Hacking**, la **Seguridad Ofensiva** y la **formación continua**.  
-- 🎯 En preparación para la **certificación eJPT**.  
+- 🎯 EJPT **Elering certificación eJPT**.  
 - 🧩 En mi tiempo libre practico en plataformas como **Hack The Box** y **TryHackMe**.  
 - 💬 Me gusta compartir conocimiento y herramientas de seguridad en mis redes.  
 
