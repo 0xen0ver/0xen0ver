@@ -1,4 +1,4 @@
-<h3 title="👾">Hey 👋, soy Ovek (Nicolás Ros)</h3>
+<h3 title="👾">Hey 👋, soy Cremis (Nicolás Ros)</h3>
 
 <a href="https://www.linkedin.com/in/nicolas-ros/">
   <img align="left" alt="LinkedIn" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
@@ -30,7 +30,7 @@
 - 🧩 En mi tiempo libre practico en plataformas como **Hack The Box** y **TryHackMe**.  
 - 💬 Me gusta compartir conocimiento y herramientas de seguridad en mis redes.  
 
-📫 **Email:** [contacto.ovek@gmail.com](mailto:contacto.ovek@gmail.com)  
+📫 **Email:** [contacto.Xnicolas.ros@gmail.com](mailto:xnicolas.ros@gmail.com)  
 🌐 **Portfolio:** [https://github.com/ovek-sec](https://github.com/ovek-sec)  
 
 ---
